@@ -1,18 +1,11 @@
-import Image from "next/image";
+import SchoolList from "./SchoolList";
 
 export default function Home() {
-  return (
-    <html>
-      <head>
-        <title>Sample WebPage</title>
-      </head>
-
-      <body>
-        <h1>
-            sdadsasd
-        </h1>
-
-      </body>
-    </html>
-  );
+    return (
+        <div className="">
+            <div className="flex mx-4 my-4 text-orange-700 font-bold">
+                <SchoolList />
+            </div>
+        </div>
+    );
 }
