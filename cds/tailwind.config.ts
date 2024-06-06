@@ -9,6 +9,7 @@ const config: Config = {
     ],
     theme: {
         extend: {
+            colors: {'red': "#fc0000"},
         },
     },
     plugins: [],
