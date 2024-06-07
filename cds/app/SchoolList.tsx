@@ -17,7 +17,7 @@ const SchoolList = () => {
                     <li>Orange, Monkey</li>
                     <li>Gray, Elephant</li>
                     <li>Brown, Bear</li>
-                    <li>Pink, Flamingo</li>
+                    <li>Pink, Flaming</li>
                 </ul>
             </div>
         </div>
